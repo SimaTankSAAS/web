@@ -34,7 +34,7 @@
     "@dadi/status": "~1.0.0",
     "@purest/providers": "~1.0.0",
     "async": "~1.5.2",
-    "body-parser": "~1.18.2",
+    "body-parser": "~1.19.0",
     "chokidar": "^3.0.0",
     "clone": "~2.1.1",
     "colors": "~1.1.2",
