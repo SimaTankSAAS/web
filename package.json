@@ -51,7 +51,7 @@
     "dustjs-linkedin": "^2.7.5",
     "etag": "~1.8.1",
     "event-stream": "~4.0.1",
-    "express-session": "~1.15.6",
+    "express-session": "~1.18.1",
     "feedparser": "~2.2.2",
     "get-value": "~3.0.0",
     "js-yaml": "~3.13.1",
