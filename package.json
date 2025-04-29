@@ -48,7 +48,7 @@
     "csurf": "~1.9.0",
     "debug": "~4.1.0",
     "deepmerge": "~2.2.1",
-    "dustjs-linkedin": "^2.7.5",
+    "dustjs-linkedin": "^3.0.1",
     "etag": "~1.8.1",
     "event-stream": "~4.0.1",
     "express-session": "~1.15.6",
