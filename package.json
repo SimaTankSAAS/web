@@ -42,7 +42,7 @@
     "connect-modrewrite": "~0.10.1",
     "connect-mongo": "^3.1.2",
     "connect-redis": "~3.4.0",
-    "console-stamp": "~0.2.5",
+    "console-stamp": "~3.0.0",
     "convict": "^6.0.0",
     "cookie-parser": "~1.4.3",
     "csurf": "~1.9.0",
